@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Logika","c":"Logika","l":"ballPosition()"},{"p":"Logika","c":"Logika","l":"getValues()"},{"p":"Logika","c":"Logika","l":"Logika()","u":"%3Cinit%3E()"},{"p":"Logika","c":"Logika","l":"moveL()"},{"p":"Logika","c":"Logika","l":"moveLeft()"},{"p":"Logika","c":"Logika","l":"moveR()"},{"p":"Logika","c":"Logika","l":"moveRight()"}];updateSearchResults();
